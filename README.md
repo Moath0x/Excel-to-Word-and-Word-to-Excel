@@ -1,4 +1,4 @@
-#Excel-to-Word-and-Word-to-Excel
+# Excel-to-Word-and-Word-to-Excel
 A tool to automate data conversion between Excel and Word for efficient processing and precise formatting.
 
 Requirements:
@@ -9,7 +9,7 @@ Libraries: pandas, openpyxl, python-docx
 
 
 
-أداة لتحويل البيانات بين Excel و Word بشكل تلقائي لتسهيل المعالجة وضمان التنسيق الدقيق.
+# أداة لتحويل البيانات بين Excel و Word بشكل تلقائي لتسهيل المعالجة وضمان التنسيق الدقيق.
 
 المتطلبات:
 بايثون 3.8 أو أحدث
