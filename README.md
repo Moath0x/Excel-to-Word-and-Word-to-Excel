@@ -4,8 +4,8 @@ A tool to automate data conversion between Excel and Word for efficient processi
 Requirements:
 Python 3.8+
 Libraries: pandas, openpyxl, python-docx
-License
-Licensed under the MIT License.
+
+
 
 
 
